@@ -1,0 +1,50 @@
+{
+"career":{
+"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+    "degree":"S.S.C",
+    "school":"Sapthagiri High School",
+    "data":["2013","95%"]
+  },
+  {
+    "degree":"Intermediate",
+    "school":"Narayana Junior College",
+    "data":["2013-15","94%"]
+  },
+  {
+    "degree":"B-Tech(C.S.E)",
+    "school":"G PULLAIAH College Of Engineering and Technology",
+    "data":["2015-19","82%"]
+  }
+],
+"skills":[
+  {
+    "name":"Known languages",
+    "info":["c","c#","java","php","R"]
+  },
+  {
+    "name":"operating systems",
+    "info":["win-10","Fedoro","kalilinux","ubuntu"]
+  },
+  {
+    "name":"Data Bases",
+    "info":["MySql","Oracla","mongoDB","PDO"]
+  },
+  {
+    "name":"Web Technologies",
+    "info":["HTML","CSS","Ajax","Bootstrap"]
+  },
+  {
+    "name":"operating systems",
+    "info":[".Net","Bootstrap","CodeIgnite"]
+  },
+  {
+    "name":"Libraries",
+    "info":["Jquery"]
+  }
+
+
+]
+}
